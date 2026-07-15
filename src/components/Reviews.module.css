@@ -98,14 +98,12 @@
 .imgWrap {
   width: 100%;
   background: #150208;
-  overflow: hidden;
 }
 
 .imgWrap img {
   width: 100%;
   display: block;
   height: auto;
-  object-fit: contain;
 }
 
 .cardFooter {
